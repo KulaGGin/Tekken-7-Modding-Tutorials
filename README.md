@@ -10,3 +10,7 @@ We decided to use GitHub as a base for our tutorials in order to enable every us
 # Information for beginner
 If you haven't modded this game before, we do recommend to read through the basics: <br>
 https://github.com/a5tronomy/Tekken-7-Modding-Tutorials/tree/master/Basics
+
+# Questions?
+Join our Discord: <br>
+https://discord.gg/4eKxJVg
