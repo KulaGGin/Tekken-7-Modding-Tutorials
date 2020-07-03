@@ -1,1 +1,1 @@
-# Tekken-7-Modding-Tutorials
+# Tekken 7 Modding Tutorials
