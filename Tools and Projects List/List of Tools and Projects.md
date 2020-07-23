@@ -8,6 +8,6 @@ Universal Unreal Engine 4 Unlocker: https://framedsc.github.io/GeneralGuides/uni
 
 Tekken 7 Jukebox tool: https://www.reddit.com/r/Tekken/comments/hw6v6q/release_tekken_7_jukebox_tool_v180_saveload
 
-Tekken 7 punishment and throwbreak trainer: https://www.reddit.com/r/Tekken/comments/90exi7/tekken_7_punishment_and_throwbreak_trainer2/
+Tekken 7 punishment and throwbreak trainer: https://www.reddit.com/r/Tekken/comments/90exi7/tekken_7_punishment_and_throwbreak_trainer2/ . Make a dummy to repeat more than 5 moves in practice mode. Show and control online lag more precisely in practice mode and 'Searching for Opponent...' screen(SOC).
 
 Unreal Finder tool: https://github.com/CorrM/Unreal-Finder-Tool . Useful tool to help you fetch and dump Unreal Engine 4 Games information.
