@@ -29,8 +29,8 @@ Tool to create custom movesets in Tekken 7.
 Unlock UE4 console, camera tools, pause game. [Link to Cheat Engine
 table](https://framedsc.github.io/GeneralGuides/cheat_engine_tables.htm).
 
-[Tekken 7 Jukebox tool](https://www.reddit.com/r/Tekken/comments/hw6v6q/release_tekken_7_jukebox_tool_v180_saveload) 
-=====================================================================================================================
+[Tekken 7 Jukebox tool](https://www.reddit.com/r/Tekken/comments/hw6v6q/release_tekken_7_jukebox_tool_v180_saveload)
+====================================================================================================================
 
 Allows you to play custom music in Tekken 7.
 
@@ -42,6 +42,13 @@ Allows you to play custom music in Tekken 7.
 Make a dummy to repeat more than 5 moves in practice mode. Show and control
 online lag more precisely in practice mode and 'Searching for Opponent...'
 screen(SOC).
+
+ 
+
+[Tekken 7 FPS Patcher](https://github.com/KulaGGin/Tekken-7-FPS-Patcher/releases)
+=================================================================================
+
+Allows players to play at more than 60 FPS.
 
  
 
