@@ -16,7 +16,7 @@ TBP with many additional features.
 
  
 
-[Tekken Moveset Extractor by Kilo](https://github.com/Kiloutre/TekkenMovesetExtractor)
+[Tekken Moveset Extractor](https://github.com/Kiloutre/TekkenMovesetExtractor)
 ======================================================================================
 
 Tool to create custom movesets in Tekken 7.
